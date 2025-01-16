@@ -1,0 +1,9 @@
+12/23 - fasted and didn't have mental capacity to code
+12/26 - didn't do any coding because I was focusing on updating my 
+fitness routine for when I cancel crossfit
+1/8/25 - weird day. fell down an ai agent rabbit hole
+1/9/25 - working on CJ Gnosis troubleshooting
+1/10/25 - Found a bug in CJ and began addressing it. Solved the gnosis prob (i think)
+1/14/25 - got agents running locally and in a discord server. why isn't my green square showing up?
+1/15/25 - helping felipe w/ eliza. Why aren't my pushes showing up? Maybe I just needed to restart terminal?g
+1/16/25 - ai agent dev school video2 code along
