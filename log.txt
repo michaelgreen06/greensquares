@@ -7,3 +7,5 @@ fitness routine for when I cancel crossfit
 1/14/25 - got agents running locally and in a discord server. why isn't my green square showing up?
 1/15/25 - helping felipe w/ eliza. Why aren't my pushes showing up? Maybe I just needed to restart terminal?g
 1/16/25 - ai agent dev school video2 code along
+1/18/25 - thinking about how to make a simple agent that can help w/ my productivity.
+
