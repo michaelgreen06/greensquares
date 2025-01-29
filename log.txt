@@ -13,3 +13,4 @@ fitness routine for when I cancel crossfit
 1/22/25 - finished AI dev school video3 :partying_face:
 1/24/25 - trin desktop pr merged :raised_hands: finished devschool video 3 re-watch
 1/28/25 - got the 3d generation plugin working locally
+1/29/25 - figured out how to convert the glb file to a gif using cloudinary
