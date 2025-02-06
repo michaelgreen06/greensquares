@@ -15,3 +15,4 @@ fitness routine for when I cancel crossfit
 1/28/25 - got the 3d generation plugin working locally
 1/29/25 - figured out how to convert the glb file to a gif using cloudinary
 1/30/25 - learned a bunch about how the current twitter image posting process works. Also learned a bunch of typescript.stuff. 
+2/5/25 - trying to figure out why subsequent pnpm builds don't work after running pnpm clean
