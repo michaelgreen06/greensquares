@@ -16,3 +16,5 @@ fitness routine for when I cancel crossfit
 1/29/25 - figured out how to convert the glb file to a gif using cloudinary
 1/30/25 - learned a bunch about how the current twitter image posting process works. Also learned a bunch of typescript.stuff. 
 2/5/25 - trying to figure out why subsequent pnpm builds don't work after running pnpm clean
+2/6/25 - got v0.1.9 up and running w/ twitter integration
+2/7/25 - decided to give up on gods bounty. I was spending way too much time troubleshooting errors and not enough time making progress
