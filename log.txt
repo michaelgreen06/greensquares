@@ -18,3 +18,4 @@ fitness routine for when I cancel crossfit
 2/5/25 - trying to figure out why subsequent pnpm builds don't work after running pnpm clean
 2/6/25 - got v0.1.9 up and running w/ twitter integration
 2/7/25 - decided to give up on gods bounty. I was spending way too much time troubleshooting errors and not enough time making progress
+2/10/25 - prioritizing work for feb
