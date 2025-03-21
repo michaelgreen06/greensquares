@@ -28,3 +28,4 @@ fitness routine for when I cancel crossfit
 3/11/25 - understanding dynamic routing tables
 3/13/25 - started wetbulb blog post
 3/20/25 - CJ v3.0.0 next steps planning
+3/21/25 - working on CJ ui/ux flows
