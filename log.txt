@@ -31,3 +31,4 @@ fitness routine for when I cancel crossfit
 3/21/25 - working on CJ ui/ux flows
 3/25/25 - consolidated on design specs & started working on PRD2
 3/25/25 - Nearly completed PRD2
+3/31/25 - Started testing BPs prototype.
