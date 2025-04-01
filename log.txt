@@ -32,3 +32,4 @@ fitness routine for when I cancel crossfit
 3/25/25 - consolidated on design specs & started working on PRD2
 3/25/25 - Nearly completed PRD2
 3/31/25 - Started testing BPs prototype.
+4/1/25 - understanding BPs hooks for CJ3
