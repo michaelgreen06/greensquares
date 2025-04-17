@@ -37,3 +37,4 @@ fitness routine for when I cancel crossfit
 4/3/25 - trying to understand BPs codebase. Found out now he's working from a new codebase I don't have access to. 
 4/11/25 - looking through bps new main and testing his app.
 4/15/25 - updating linkedin and upwork profiles
+4/17/25 - updated token symbol & decimal info in cj
