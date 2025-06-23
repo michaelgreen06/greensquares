@@ -38,4 +38,5 @@ fitness routine for when I cancel crossfit
 4/11/25 - looking through bps new main and testing his app.
 4/15/25 - updating linkedin and upwork profiles
 4/17/25 - updated token symbol & decimal info in cj
-6/20/25 - working on neetcode problems
+6/20/25 - working on neetcode problems\
+6/23/25 - neetcode practice
