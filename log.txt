@@ -52,3 +52,4 @@ fitness routine for when I cancel crossfit
 7/18/25 - Haraka interview 
 7/22/25 - completed endpoint investigation
 8/11/25 - honeycoin research & webhook to db work
+8/14/25 - activate earnings pr clean up
